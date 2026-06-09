@@ -1,0 +1,8 @@
+ollama
+langchain
+chromadb
+faiss-cpu
+streamlit
+fastapi
+uvicorn
+tiktoken
